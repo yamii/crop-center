@@ -1,0 +1,17 @@
+{
+  "name": "crop-center",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yamii/crop-center",
+  "authors": [
+    "Miriam Mae Iglesia <miriamiglesia@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/libs",
+    "test",
+    "tests"
+  ]
+}
