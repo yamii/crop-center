@@ -13,8 +13,5 @@
     "public/js/libs",
     "test",
     "tests"
-  ],
-  "dependencies" : {
-    "crop-center" : ""
-  }
+  ]
 }

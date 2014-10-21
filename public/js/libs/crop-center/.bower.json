@@ -1,6 +1,5 @@
 {
   "name": "crop-center",
-  "version": "0.0.0",
   "homepage": "https://github.com/yamii/crop-center",
   "authors": [
     "Miriam Mae Iglesia <miriamiglesia@gmail.com>"
@@ -14,7 +13,13 @@
     "test",
     "tests"
   ],
-  "dependencies" : {
-    "crop-center" : ""
-  }
+  "_release": "a92edaf3da",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a92edaf3da3e370eaf0381622bf6a3881810201d"
+  },
+  "_source": "git://github.com/yamii/crop-center.git",
+  "_target": "*",
+  "_originalSource": "crop-center"
 }
